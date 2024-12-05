@@ -23,9 +23,5 @@ public class lacoRepeticaoWhile {
             index++;
         }
         scanner.close();
-
-
-
-
     }
 }
